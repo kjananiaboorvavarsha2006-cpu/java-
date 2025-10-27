@@ -1,8 +1,3 @@
-/*Q9: Neon Number [Medium]
-- Input: 9
-Output: Neon Number
-- Input: 1
-Output: Neon Number*/
 import java.util.Scanner;
 public class neno{
     public static void main(String[] args) {

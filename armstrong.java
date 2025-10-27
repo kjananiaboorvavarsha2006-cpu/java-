@@ -1,10 +1,5 @@
-/*Q5: Armstrong Number [Medium]
-- Input: 153
-Output: Armstrong Number
-- Input: 370
-Output: Armstrong Number
-*/
 import java.util.Scanner;
+
 public class armstrong {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
